@@ -55,8 +55,8 @@ npm run dev
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/2c577bc4-36bc-4cf1-b9d0-2124a4cd1e2b" />
 
 
-### ฟอร์มรีวิว
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f226cf5a-bf3c-4ee5-8b3a-1047df45a1f2" />
+
+
 
 
 ## ผู้พัฒนา
