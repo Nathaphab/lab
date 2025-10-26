@@ -56,7 +56,8 @@ npm run dev
 
 
 ### ฟอร์มรีวิว
-<img width="1277" height="680" alt="image" src="https://github.com/user-attachments/assets/daa01ef2-7e6b-45f8-980d-16525b9d2d94" />
+<img width="1418" height="828" alt="image" src="https://github.com/user-attachments/assets/bce9022e-d659-41e9-960f-aab2def97ffd" />
+
 
 
 
